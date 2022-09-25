@@ -7,4 +7,6 @@
 
 >pkg install python
 
->git clone
+>git clone https://github.com/Knownasjohnn/CCTV-HACK
+
+> 
